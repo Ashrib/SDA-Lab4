@@ -1,0 +1,7 @@
+C:\Users\lab008\Desktop\ash SDA\SDA lab 4\SDA lab 4\bin\Debug\SDA lab 4.exe.config
+C:\Users\lab008\Desktop\ash SDA\SDA lab 4\SDA lab 4\bin\Debug\SDA lab 4.exe
+C:\Users\lab008\Desktop\ash SDA\SDA lab 4\SDA lab 4\bin\Debug\SDA lab 4.pdb
+C:\Users\lab008\Desktop\ash SDA\SDA lab 4\SDA lab 4\obj\Debug\SDA lab 4.csprojAssemblyReference.cache
+C:\Users\lab008\Desktop\ash SDA\SDA lab 4\SDA lab 4\obj\Debug\SDA lab 4.csproj.CoreCompileInputs.cache
+C:\Users\lab008\Desktop\ash SDA\SDA lab 4\SDA lab 4\obj\Debug\SDA lab 4.exe
+C:\Users\lab008\Desktop\ash SDA\SDA lab 4\SDA lab 4\obj\Debug\SDA lab 4.pdb
